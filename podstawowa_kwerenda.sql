@@ -1,0 +1,1 @@
+Select * from aniadb.clients WHERE id = 1;
